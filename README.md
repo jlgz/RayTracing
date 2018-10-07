@@ -1,1 +1,2 @@
 # RayTracing
+![ups](Cubetest.png)
